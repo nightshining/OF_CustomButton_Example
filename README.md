@@ -1,2 +1,12 @@
 # OF_CustomButton_Example
-Simple straightforward openframeworks code to make a custom button that sends OSC and can save position data.
+
+###Simple openframeworks code example of custom button class
+features include:
+
+* Realtime positioning save/load position. Good for iOS.
+* OSC message sender
+* Dynamically centers text
+* Trigger boolean value for click 
+
+
+
